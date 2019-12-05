@@ -1,0 +1,40 @@
+Name: Cain Anathem
+Shifter Name: Padfoot
+
+Race: Shifter
+Subrace: Wildhunt
+
+Ability Score Increase: Wis +2, Dex +1
+
+Language: Common
+
+Natural Tracker: Proficiency in Survival Skill
+Shifting Feature: While shifted you have advantage on Wisdom checks, and no creature within 30ft of you can make an attack roll with advantage agaisnt you unless you are incapacitated
+
+Age: 22
+Height: 5'10"
+Weight: 145lbs
+
+Speed: 30ft
+
+Hair Color: Timberwood brown
+Eye Color: Ice Blue
+
+Alignment: Chaotic Neutral or True Neutral
+
+Background: Outlander
+Origin: Hunter-gatherer
+Skill Proficiencies: Athletics, Survival
+Tool Proficiencies: Flute
+Language: choice
+Equip: A staff, a hunting trap, a trophy from an animal I killed, a set of traveler's clothes, and a belt pouch containing 10gp
+
+Personality Trait: I place no stock in wealthy or well-mannered folk. Money and manners won't save you from a hungry owlbear.
+
+Ideal: Life is like the seasons, in constant change, and we must change with it
+
+Bond: Those who earn my trust are the most important thing in my life, even while far away from me.
+
+Flaw: There's no room for caution in a life lived to the fullest
+
+Class: Ranger

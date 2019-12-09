@@ -11,13 +11,13 @@ Subrace | Wildhunt
 Beastial Inspiration | Wolf
 Level | 1
 Class | Ranger
-Language(s) | Common, Infernal, 
+Language(s) | Common, Infernal, Elven
 Age | 22
 Height | 5'10"
 Weight | 145lbs
 Speed | 30ft
-Hair Color | Russet
-Eye Color | Ice Blue
+Hair Color | Russet <div style="background:#80461B;height:15px;width:15px;border:solid black 1px;"/>
+Eye Color | Ice Blue <div style="background:#A5F2F3;height:15px;width:15px;border:solid black 1px;"/>
 Alignment | True Neutral
 Background | Outlander
 Origin | Hunter-gatherer
@@ -33,6 +33,8 @@ Flaw | There's no room for caution in a life lived to the fullest
 
 #### Wildhunt
 
+* Shifting
+  * Gives temporary hit points equal to 1d6 plus constitution modifier
 * Shifting Feature
   * While shifted you have advantage on Wisdom checks, and no creature within 30ft of you can make an attack roll with advantage against you unless you are incapacitated
 * Ability Score Increase
@@ -42,8 +44,6 @@ Flaw | There's no room for caution in a life lived to the fullest
   * 
 * Skills
   * Survival
-* Natural Tracker
-*  Proficiency in Survival Skill
 
 ## Class
 
@@ -67,7 +67,7 @@ Flaw | There's no room for caution in a life lived to the fullest
 * Skills
   * Nature
   * Stealth
-  * 
+  * Animal Handling
 
 * Favored Enemy: **Fiend**
   * Advantage on Wisdom(survival) & Intelligence checks

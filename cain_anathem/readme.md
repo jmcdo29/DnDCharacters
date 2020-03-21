@@ -16,7 +16,7 @@ Age | 22
 Height | 5'10"
 Weight | 145lbs
 Speed | 30ft
-Hair Color | Russet <div style="background:#80461B;height:15px;width:15px;border:solid black 1px;"/>
+Hair Color | Silver Blue
 Eye Color | Ice Blue <div style="background:#A5F2F3;height:15px;width:15px;border:solid black 1px;"/>
 Alignment | True Neutral
 Background | Outlander
@@ -41,7 +41,7 @@ Flaw | There's no room for caution in a life lived to the fullest
   * Wis +2
   * Dex +1
 * Darkvision
-  * 
+  * You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
 * Skills
   * Survival
 

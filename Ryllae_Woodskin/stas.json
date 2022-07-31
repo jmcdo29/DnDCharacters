@@ -1,0 +1,65 @@
+{
+  "race": "High Elf",
+  "gender": "Male",
+  "name": "Ryllae Woodskin",
+  "level": 1,
+  "class": [{ "name": "fighter", "subclass": "N/A", "level": 1 }],
+  "inspired": false,
+  "attributes": {
+    "strength": 10,
+    "dexterity": 18,
+    "constitution": 14,
+    "intelligence": 16,
+    "wisdom": 14,
+    "charisma": 10
+  },
+  "heatlh": {
+    "current": 14,
+    "max": 14,
+    "temporary": 0
+  },
+  "ac": 14,
+  "proficiency": 2,
+  "initiative": 4,
+  "speed": {
+    "walk": 30
+  },
+  "saves": {
+    "strength": {
+      "value": 2,
+      "proficient": true
+    },
+    "dexterity": {
+      "value": 4,
+      "proficient": false
+    },
+    "constitution": {
+      "value": 4,
+      "proficient": true
+    },
+    "intelligence": {
+      "value": 3,
+      "proficient": false
+    },
+    "wisodm": {
+      "value": 2,
+      "proficient": false
+    },
+    "charisma": {
+      "value": 0,
+      "proficient": false
+    }
+  },
+  "passive": {
+    "perception": 14,
+    "investigation": 15,
+    "insight": 14
+  },
+  "skills": ["acrobatics", "history", "insight", "perception"],
+  "proficiencies": {
+    "armor": ["heavy", "medium", "light", "shields"],
+    "weapons": ["martial", "simple"],
+    "tools": ["disguise kit", "theive's tools"],
+    "languages": ["common", "elvish", "halfling"]
+  }
+}

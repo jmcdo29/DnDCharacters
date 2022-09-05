@@ -13,7 +13,7 @@
     "wisdom": 14,
     "charisma": 10
   },
-  "heatlh": {
+  "health": {
     "current": 6,
     "max": 12,
     "temporary": 0

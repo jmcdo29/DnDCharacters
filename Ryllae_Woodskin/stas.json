@@ -59,7 +59,7 @@
   "proficiencies": {
     "armor": ["heavy", "medium", "light", "shields"],
     "weapons": ["martial", "simple"],
-    "tools": ["disguise kit", "theive's tools"],
+    "tools": ["disguise kit", "thieve's tools"],
     "languages": ["common", "elvish", "halfling"]
   }
 }

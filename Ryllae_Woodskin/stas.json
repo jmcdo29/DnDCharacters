@@ -2,8 +2,8 @@
   "race": "High Elf",
   "gender": "Male",
   "name": "Ryllae Woodskin",
-  "level": 1,
-  "class": [{ "name": "fighter", "subclass": "N/A", "level": 1 }],
+  "level": 2,
+  "class": [{ "name": "fighter", "subclass": "N/A", "level": 2 }],
   "inspired": false,
   "attributes": {
     "strength": 10,
@@ -14,8 +14,8 @@
     "charisma": 10
   },
   "health": {
-    "current": 6,
-    "max": 12,
+    "current": 24,
+    "max": 24,
     "temporary": 0
   },
   "ac": 14,
@@ -41,7 +41,7 @@
       "value": 3,
       "proficient": false
     },
-    "wisodm": {
+    "wisdom": {
       "value": 2,
       "proficient": false
     },
@@ -60,6 +60,6 @@
     "armor": ["heavy", "medium", "light", "shields"],
     "weapons": ["martial", "simple"],
     "tools": ["disguise kit", "thieve's tools"],
-    "languages": ["common", "elvish", "halfling"]
+    "languages": ["common", "halfling"]
   }
 }

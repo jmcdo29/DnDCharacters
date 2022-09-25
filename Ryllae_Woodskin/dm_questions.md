@@ -2,7 +2,7 @@
 
 ## An authority figure
 
-Lieutenant Abigail Nighthawk of Keyguard. She caught him snooping around a restricted area while trying to solve a case. She let him off with a warning, but said next time would be a night in custody. She keeps me from doing a lot of stupid shit sometimes
+Lieutenant Abigail Nighthawk of Keygarde. She caught him snooping around a restricted area while trying to solve a case. She let him off with a warning, but said next time would be a night in custody. She keeps me from doing a lot of stupid shit sometimes
 
 ## A Mentor, like a teacher
 
@@ -22,7 +22,7 @@ Old Lady Acana, human late 60s, helped get her son out of a gambling ring as one
 
 ## Someone who helped you
 
-The Brickenrest family in Prismaglen, they allowed me to spend a few nights in their home and have a few hot meals on my way from Ebonwood to Keyguard, asking for nothing but company in return.
+The Brickenrest family in Prismaglen, they allowed me to spend a few nights in their home and have a few hot meals on my way from Ebonwood to Keygarde, asking for nothing but company in return.
 
 ## Someone you hurt
 
@@ -30,11 +30,11 @@ Mr. Draven Hardoch, human late 40s, he asked me to look into the disappearance o
 
 ## Someone who hurt you
 
-The entire Blue Fox Tavern in Foxvale. The bartender noticed my pointed ears and asked my clan and age. When I informed him that I was unaware of my heritage other than the generalities and that I was around 28 he laughed calling me such a baby and that I had a lot of growing up left to do, then made it a point to point me out to every coworker he could until every patron in the tavern that evening knew who I was. I've never felt so humiliated for something I can't control. 
+The entire Blue Fox Tavern in Foxvale. The bartender noticed my pointed ears and asked my clan and age. When I informed him that I was unaware of my heritage other than the generalities and that I was around 28 he laughed calling me such a baby and that I had a lot of growing up left to do, then made it a point to point me out to every coworker he could until every patron in the tavern that evening knew who I was. I've never felt so humiliated for something I can't control.
 
 # Motivations
 
-## What’s your motivation? 
+## What’s your motivation?
 
 ### Long term. 6 months to a year
 
@@ -42,4 +42,4 @@ Find specific information on the elf tribe he's from and meeting them the truth 
 
 ### Short term. 1 week to a month
 
-Earn enough money to help Garner move away from Ebonwood, he doesn't want his best friend living in a small town when he knows what all is waiting in Keyguard.
+Earn enough money to help Garner move away from Ebonwood, he doesn't want his best friend living in a small town when he knows what all is waiting in Keygarde.

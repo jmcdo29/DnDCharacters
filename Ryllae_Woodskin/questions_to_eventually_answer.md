@@ -20,3 +20,13 @@
   - Do they have anything to do with the photo we found?
 - Why is Zerrias so uptight?
   - And why is he so quick to try and leave the party?
+
+# Questions that come from adventuring
+
+- Who was the woman in the vision when I touched that root? 
+  - Who was she trying to save?
+- Who is Vitarta, The Twisted Princess? She's come up a few times now.
+- What was that root?
+  - Was it the Vitoak?
+    - If so, what was it doing on Unteris? It's supposed to be floating in the sky...
+

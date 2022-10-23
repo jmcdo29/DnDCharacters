@@ -6,10 +6,10 @@
   * Zerrias disguised as Adalaine
   * Embry following at a distance
   * No info from the meetup
-    * Sir Pense is **not** working with Adalaine, _phew_
-* I got some Chimera's Blood Mead for Pense
+    * Sir Pence is **not** working with Adalaine, _phew_
+* I got some Chimera's Blood Mead for Pence
   * He's forgiven us
-  * A's group was after Pense cause he's a Naga
+  * A's group was after Pence cause he's a Naga
     * Naga's have an old direct connection to Arvita and Vitarta
     * Royals are definitely not involved
   * The root we found is part of the Vitoak

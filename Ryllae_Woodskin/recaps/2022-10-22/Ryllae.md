@@ -20,6 +20,13 @@
 		* His name is Din
 			* Used the gem on him
 				* He's being super honest about all of this, but he's giving __old__ answers
+				* Vision of standing on a large tree root like a cliff
+					* Looking down into a black spiraling storm cloud
+					* Flashes of purple lightning
+					* Clouds sometimes take the form of serpents
+					* Steps off and falls and falls and falls
+						* Shadows whipping around, sounds of wind and thunder
+						* Large purple and black serpent sees him and snaps him up taking me out of his mind
 				* Sent by "The Guardian"?
 				* Can't get any deeper
 					* Hmm...

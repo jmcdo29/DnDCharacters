@@ -33,7 +33,7 @@
 	* Varis is inside Ambrosia as expected
 		* Varis might dabble in poisons a bit, very interesting but not an issue for us
 	* Going after Ace and Irena
-		* Black eyes, short brown graying hair human
+		* Green eyes, medium long brown hair, lots of scars human
 		* Blue eyes, long wavy purple hair, "dancer"
 	* Varis asked us to talk to Alastor and say things will be taken care of
 		* Din stayed with Varis to work on poisons

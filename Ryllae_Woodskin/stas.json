@@ -2,8 +2,8 @@
   "race": "High Elf",
   "gender": "Male",
   "name": "Ryllae Woodskin",
-  "level": 3,
-  "class": [{ "name": "fighter", "subclass": "Arcane Archer", "level": 3 }],
+  "level": 4,
+  "class": [{ "name": "fighter", "subclass": "Arcane Archer", "level": 4 }],
   "inspired": false,
   "attributes": {
     "strength": 10,
@@ -14,8 +14,8 @@
     "charisma": 10
   },
   "health": {
-    "current": 36,
-    "max": 36,
+    "current": 48,
+    "max": 48,
     "temporary": 0
   },
   "ac": 15,

@@ -15,7 +15,7 @@
 	* revealed a scar from his father
 	* Apologized for the yelling at me
 * Gemflower was fucking selling Vichor in town
-	* Marketted as Veribalm
+	* Marketted as Viri Balm
 		* Alchemical solvent to grant resistances
 	* Fucker
 * We're gonna go pick flowers

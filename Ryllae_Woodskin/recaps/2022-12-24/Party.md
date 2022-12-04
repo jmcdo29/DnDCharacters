@@ -1,9 +1,9 @@
 The rest of the trip back to Golmars is rather quiet, as our band of travelers
 makes their way back to Spirits on Tap to make plans of their next move.
-Waiting for them there is none other than Vir Tabelam, with a letter for Maxam
+Waiting for them there is none other than Vir Tabella, with a letter for Maxam
 regarding information around the Siren's champion, Riven. It was said that he
 did all in his power he could to help keep his people, the denizens of Mare,
-safe up until the collapse of Unteris. When Mare sunk, Riven used his powers to
+safe up until the Joining of Unteris. When Mare sunk, Riven used his powers to
 transform the citizens of Mare into merfolk, Sirens, to allow them to survive
 the harsh waters, and entrusted his power in the form of an orb to Mother
 Ocean, one of the deities of the sirens. At the new information, Din is sold,
@@ -39,7 +39,7 @@ of the two owners, as Ryllae wanted to speak with Embry about whom the other
 should be before just doing so. While there, Jet was relieved to hear that he
 no longer needed to work for Zyphie and was warned about the dangers of Vichor.
 As it turns out, Jet had already worked with a sample of the stuff, having
-bought it from Gemflower on the black market under the name of Veribalm (sp?). He
+bought it from Gemflower on the black market under the name of Viri Balm. He
 was selling it as an alchemical solvent to grant resistances to whatever it was
 applied to.
 

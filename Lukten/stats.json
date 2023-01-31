@@ -1,0 +1,91 @@
+{
+  "name": "Lukten Grunfass",
+  "classes": [
+    {
+      "levels": 3,
+      "name": "Monk",
+      "subclass": "Way of the Open Hand"
+    }
+  ],
+  "maxHealth": 27,
+  "temporaryHealth": 0,
+  "currentHealth": 27,
+  "armorClass": 17,
+  "speed": {
+    "walking": 40
+  },
+  "inspired": false,
+  "proficiency": 2,
+  "attributes": {
+    "strength": {
+      "value": 14,
+      "mod": 2
+    },
+    "dexterity": {
+      "value": 18,
+      "mod": 4
+    },
+    "constitution": {
+      "value": 16,
+      "mod": 3
+    },
+    "intelligence": {
+      "value": 17,
+      "mod": 3
+    },
+    "wisdom": {
+      "value": 17,
+      "mod": 3
+    },
+    "charisma": {
+      "value": 14,
+      "mod": 2
+    }
+  },
+  "skills": {
+    "acrobatics": {},
+    "animalHandling": {},
+    "arcana": {},
+    "atheltics": {},
+    "deception": {},
+    "history": {},
+    "insight": {},
+    "intimidation": {},
+    "investigation": {},
+    "medicine": {},
+    "nature": {},
+    "perception": {},
+    "performance": {},
+    "persuasion": {},
+    "religion": {},
+    "sleightOfHand": {},
+    "stealth": {},
+    "survival": {}
+  },
+  "saves": {
+    "strength": {
+      "value": 4,
+      "proficient": true
+    },
+    "dexterity": {
+      "value": 6,
+      "proficient": true
+    },
+    "constitution": {
+      "value": 3,
+      "proficient": false
+    },
+    "intelligence": {
+      "value": 3,
+      "proficient": false
+    },
+    "wisdom": {
+      "value": 3,
+      "proficient": false
+    },
+    "charisma": {
+      "value": 2,
+      "proficient": false
+    }
+  }
+}

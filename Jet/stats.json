@@ -1,0 +1,65 @@
+{
+  "name": "Jet",
+  "race": "Wildhunt Shifter",
+  "gender": "Male",
+  "level": 5,
+  "class": [{ "name": "paladin", "subclass": "Oauth of Glory", "levle": 5 }],
+  "inspired": false,
+  "attributes": {
+    "strength": 18,
+    "dexterity": 16,
+    "constitution": 19,
+    "intelligence": 13,
+    "wisdom": 16,
+    "charisma": 18
+  },
+  "health": {
+    "current": 70,
+    "max": 70,
+    "temp": 0
+  },
+  "ac": 18,
+  "proficiency": 3,
+  "initiative": 3,
+  "speed": {
+    "walk": 30
+  },
+  "saves": {
+    "strength": {
+      "value": 4,
+      "proficient": false
+    },
+    "dexterity": {
+      "value": 3,
+      "proficient": false
+    },
+    "constitution": {
+      "value": 4,
+      "proficient": false
+    },
+    "intelligence": {
+      "value": 1,
+      "proficient": false
+    },
+    "wisdom": {
+      "value": 6,
+      "proficient": true
+    },
+    "charisma": {
+      "value": 7,
+      "proficient": true
+    }
+  },
+  "passive": {
+    "perception": 13,
+    "investigation": 11,
+    "insight": 13
+  },
+  "skills": ["atheletics", "intimidation", "persuasion", "survival"],
+  "proficiencies": {
+    "armor": ["heavy", "medium", "ligh", "shields"],
+    "weapons": ["martial", "simple"],
+    "tools": ["Chef's tools"],
+    "languages": ["common"]
+  }
+}

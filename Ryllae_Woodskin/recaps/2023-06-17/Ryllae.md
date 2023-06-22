@@ -11,7 +11,7 @@
 		* Went to smash the crystal in the water
 * Embry is a cow
 	* Somehow I'm not too surprised
-* Din and Zerrias apparently talked to an old frined of Ophicius's
+* Din and Zerrias apparently talked to an old frined of Ophiucus's
 * There's a metal in Monstera that can apparently destroy Vichor
 * It seems like Toril might be turning into Aster
 * We're gonna head back to Golmars

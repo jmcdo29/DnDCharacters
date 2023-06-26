@@ -1,0 +1,37 @@
+- Lucy disappeared
+  - Guess she'll maybe eventually show back up
+- Zerrias got his egg back
+  - It's now red
+    - Wasn't it green before?
+  - Apparently it's saying "I live for the pain, the fight, the glory, the gain"
+    - Dude, what?
+- Pantomimed with Macam and Kengai
+  - Apparently something is wrong with the Half a Dozen
+- Zhell family seems to be sick
+  - Embry, Toni, and Din are working on healing them
+- Din is taking some anti-toxin for Avelina Monet
+  - Ms. Monet has patches of scale-like skin
+    - Seems the anti-toxin won't help :(
+- Zerrias talked with Ophiucus for a bit before I studied Elvish
+- Zerrias's egg hatched in the morning
+  - It's a fucking Cerberus puppy
+    - It has a snake tail
+    - Zerrias is calling him Orpheus
+- Man Zerrias is crying a lot
+- We found Embry and Din at Half a Dozen
+  - Snake's name is Eurydice
+- Din's Orchid is playing with Eurydice
+- Headed off to Golmars
+- Zerrias now has a way to have a shadow snake on his shoulder?
+  - Everfather what is going on here
+- I'm going to investigate the Steele Show and why it's closed
+  - Everyone else is going to The Honeyed Rose
+- Steele Show is still closed
+  - Mnetioned to go look at Luna Vein
+    - Producer of Lunasteel
+      - Lunasteel inhibits shapeshifters
+  - Supply chain comes from Monstera
+    - Mines seem to be overrun by vines
+      - What are thick vines doing in in a mine?
+        - Blacksmith mentioned I should go to the Sassy Stitch to get my bow
+          restrung

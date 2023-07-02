@@ -1,0 +1,62 @@
+- Din wants to use my face for a discount at UMA
+  - Connection with Sariel
+- Got my bow restrung at the Sassy Stitch
+- Picked up a second bow at The Steel Show
+- Din told me about some of the champions
+  - Aster, the sun, here in Golmars
+    - Was Toril in this timeline
+  - Demitree nature
+  - Fahren, fire, warmth
+  - Syn, fierce, scared Zilisk
+  - Noah, ice, was a kid, very reserved
+  - Riven, water
+- Sariel mentioned the library would have books on folklore
+  - Gave Din a 50% discount on first two scrolls
+- Din suggested I try to relax a little because I'm an anxious mess
+  - Apparently
+  - I'm sorry I don't casually mention that we killed someone
+    - Even if they deserved it
+    - That person was the daughter of a very powerful family for Mors's sake!
+- Went to the library for books
+  - "The Moon Walks Among Us"
+    - Syn was a beast on the battlefield
+    - Will show back up under the True Moon through the gift of the God of
+      Beasts
+      - Thirio?
+      - Where?
+- Din got his spells
+- Naill (UMA librarian) is a descendenrt of Demitree
+- Orpheus woke us up at the inn
+  - Zerrias looks different
+  - Isla lkes his "walk of pride"
+- Din made a ton of money by selling a warhorse he summoned
+  - Embry should learn from him
+- Din mentioned he would never force anyone to become a champion
+  - Din is a fucking liar
+- Maxam wants to borrow me for errands
+  - I feel like I should be worried again
+  - I need to use my gem on Irena
+- Varis got information from Irena
+  - Two biggest splinter cells
+  - One might be close to getting what they want
+    - One in Sabu
+      - They're the close ones
+      - Weird weather in Sabu is tied to the item they're after
+      - Also related to the lightning glass
+      - Between Bonespire and Terae
+    - One in Frostdain
+      - Black Ice Lake is threatening to melt
+      - General area of Black Ice Lake
+- Irena looks ragged
+  - Maxam can get a little scary with how he's kindly interrogating Irena
+  - Syrens may no longer be in possession of the River's Tear
+  - Gemflower is a part of the Ballad of Champions
+    - Planned to kill the Orchids for the money
+    - Hated interacting with them
+  - Hates vichor
+  - Has no concern for Gemflower
+    - Concerned that if Gemflower keeps using Vichor their plan will fail
+- Told Zerrias about Gemflow
+  - He definitely wants to kill Gemflower for the right reasons
+- Zerrias agreed to stopping in Keygarde if the rest of us want to
+  - I certainly do for the pay and reputation

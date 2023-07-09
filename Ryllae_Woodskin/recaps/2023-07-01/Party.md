@@ -102,7 +102,7 @@ possibly find out how to get in good with the guards to make it easier to get
 away with certain activities. Zerrias asked Lilith if she knew where Toril had
 gone, and she sadly replied with that he had an errand to run out of town. She
 was able to mention the rough location where he might be found and Zerrias
-headed off, bumping into Ryllae and Zerrias on their way back. Ryllae quickly
+headed off, bumping into Ryllae and Maxam on their way back. Ryllae quickly
 relayed to Zerrias that Gemflower hated the entire idea of marrying Zyphie and
 that he was only doing it for the money, planning to murder the Orchids after
 the wedding was official. Zerrias took a moment to collect himself after the

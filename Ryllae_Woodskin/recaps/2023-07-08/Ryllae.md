@@ -1,0 +1,66 @@
+- sent letter to Lady Durprios
+- Zerrias rushed into town and found me
+- Said that Aster was taken by Ballad of Champions people
+- Rushed to find Din and headed out to where Zerrias and Aster were
+- it was a prank -\_-
+- Zerrias is "picking" on Din through Aster's words
+- Conversation between Aster and Din about things that have changed
+  - Sabu is where Tricen is
+  - Frosdain has Fahren
+    - If Black Ice Lake melts, Avanix is in trouble
+- Aster has met Pomdra and the gods
+  - I'm not surprised, but wow I've seen it all
+- Going after the pirate treasure with Aster
+- Demitree's bracelet is leaking power in Monstera
+- Noah's "orb" is probably freezing over Keygarde
+  - yay!
+  - ugh, this is gonna be "fun"
+- Rented a rowboat
+  - Peggy is pulling it
+- At the cave for the pirates treasure
+  - Zerrias is concerned about the curse
+- Let Aster borrow my rapier
+- Gods this cave is huge
+- Dragons apparently have been confined to their own island for a long time
+  - Apparently trapped on their island
+  - Din equated it to Carcer
+  - Noah trapped a monster under "miles" of ice
+    - Might be an exageration
+- Aster is aware? of vichor
+  - Never really got an answer here, Aster got distracted
+    - I'll have to ask him again later
+- In other news, Din is now investigating mushrooms
+- Almost ambushed by some water elementals
+  - Aster saw them just in time
+  - Jarekos! I love this new bow!
+- Zerrias's form of dread looks kind of empty compared to the old cackle
+  - Wonder what happened here?
+  - Not really a complaint, just curious
+- Apparently Aster is the "weakest" of the champions
+  - Everfather, serisouly? The dude vaporized a water elemental
+  - The champions were "birthed" from the shower of stars from the Empyrean Sea
+    - Back in the time of the faceless
+  - Aster's power comes from the Empyrean Sea itself
+- It could be said that Din was Arvita's boy toy
+  - She created the nagas from dolls
+- Noah, Fahren, and Tricen are the strongest
+  - Noah is the youngest
+    - Could turn someon'es heart to ice
+  - Syn is most feral
+  - Tricen is "scariest" according to Aster
+    - Apparently is very emotionless unless fighitng
+      - Very curious
+    - Also the fastest
+- Din found a shrine in the cave
+- human woman, dragon wings, sleeveless robe, long gloves, long flowing hair
+  - holding onto egg (part of status)
+  - There's an offering table without any offerings
+- Pomdra's humanoid form
+  - Creator of the Vitoak
+  - The first dragon
+- Din offered some fell weed and got a dragon scale necklace
+- Zerrias offerred a flower, received a set of bracers
+- Convinced Din to offer a Vitoak root
+  - Wooden staff with a dragon crystal at the tip
+  - Crystal switches between colors
+- Din gave me the dragon scale necklace

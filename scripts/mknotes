@@ -1,0 +1,24 @@
+#! /usr/bin/env zsh
+
+today=$(date +%Y-%m-%d)
+
+case $1 in
+  ryllae)
+    mkdir Ryllae_Woodskin/recaps/$today
+    touch Ryllae_Woodskin/recaps/$today/Ryllae.md
+    touch Ryllae_Woodskin/recaps/$today/Party.md
+    ;;
+  lukten)
+    touch Lukten/notes/$today.md
+    ;;
+  jet)
+    touch Jet/Diary/$today.md
+    ;;
+  --help)
+    printf '%s\n\t* %s\n\t* %s\n\t* %s\n' 'Create notes for the given character' 'ryllae' 'lukten' 'jet'
+    ;;
+  *)
+    printf '%b%s%b\n' '\x1b[31m' 'Invalid option used for mknotes. Please view ./scripts/mknotes --help' '\x1b[37m'
+    exit 1;
+    ;;
+esac

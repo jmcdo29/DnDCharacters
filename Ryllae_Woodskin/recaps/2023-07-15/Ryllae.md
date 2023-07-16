@@ -1,0 +1,52 @@
+- Aster got to meet a Syren for the first time (Maxam)
+- Maxam offerred some seaweed
+  - Got a blue rose covered in crystal droplets
+  - Well, that's pretty, wonder what it does
+- Din got a magic item for Embry
+- Riven is the **creator** of the Syrens
+  - Everfather, wait, what?
+- Ribea was Riven's best friend
+- The blue gemstone in the shape of a tear is Riven's orb
+- Aster knew Riven before the Syrens were made
+- Seems Din got a bit upset about us talking about him
+  - Specifically his genetails and sex life
+- Old region of Lectrum (Tricen's region) vanished
+- Mare (Rivem's rehion) lost structure and felll to the depths
+  - Riven created a barrier around Mare to create the Syrens and their kingdom
+  - Oh Everfather we realyy need to find Riven's orb
+    - Without it, the Syrens are doomed
+- Zerrias found more water elementals
+  - Right as he took lead too
+  - Din's new staff can deal cold damage?
+- There's someone else in this cave?
+  - Her name is Liciana
+  - She has no clue why she's in the cave
+    - Kurio, why?
+    - She does know where the pirate treasure is
+  - She came out of a frame?
+    - This keeps getting weirder
+    - "Here's waht I fish from the sea of stars. Let's see what I grab from this
+      Time"
+  - Seems like she may have been fished out by Lady Fortuna
+- Lots of the pirate treasure is fake
+- Din uncovers some paintings simultaneously
+  - Idiot
+  - He really should have been more careful
+- One of tha paintings was of Din as a living person
+  - A little eirie
+- Other painting was of an adult swimming in darkness
+  - Apparently can't be destroyed
+    - How do you begin to do something like that?
+- Zerrias moved the black statue with his mage hand
+- Seems like Liciana has dealt with some Vichor as well
+- Liciana gave a report to the queen in Monstera
+  - One of her parents is a deity
+  - God of Love
+    - Keirahn
+    - Din actually likes this deva
+    - She does not like him
+- Seems that Orpheus saw another Syren in the water
+  - Had sharp teeth
+- Liciana is super shocked by Orpheus
+- Syrens came up to see Maxam
+  - They want to meet about Irena and the letter Maxam sent to the kingdom

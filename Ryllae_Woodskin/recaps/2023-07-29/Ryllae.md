@@ -1,0 +1,71 @@
+- Headed back to Golmars
+- Zerrias is off to Orchid Manor to kill his parents
+- Licianna and Din are going to an inn room to study
+- Maxam and I are going to meet the Syrens
+  - Gave a guy (Azreal) a fish sandwich
+    - Bought 6, one for each Syren, myself, and Maxam, the one for Azreal
+    - Azreal feels indebted to us after the sandwich
+      - Can't seem to remember why he's in Golmars
+  - Maxam went to the basement to see if Azreal can join the meeting
+  - Met with Corsea and Ulakai
+  - River's Tear is missing
+    - Ah fuck
+    - Princess Narisa has left the domain to find the Tear
+    - Decent sized teardrop shaped gem on a pearl necklace
+    - Maxam had a great idea to ask about side effects of the tear
+  - Syrens brought a jounral with accounts from Riven
+  - There has been unrest of nepositism withthe royal family
+  - Corsea said Princess Narisa probably can't hold her own in the world
+    - Headed out West from Koraqua
+      - Koraqua spans the central region of Unteris underwater
+      - wow, what a secret to keep
+- Vir has a pet manta ray
+  - WTF? That's so cool!
+- Looks like Zerrias robbed the hell out of his parents' house
+- Azreal is a worshipper of the God of Death
+  - "Mother" sent him to Golmars about the "crazy" thing going on in Monstera
+    - Crazy thing is the champion's orbs
+- Zerrias gave me 20gold
+  - Azreal tried to give me 50 for the fish sandwich from earlier
+    - It was literally 5 silver! No need to give me 100 times the cost
+- Zerrias needs me to do something in Din's room
+  - Wonder what he needs me to do this time?
+  - Needs me to pick a lockbox
+    - Well, that was easy
+- Azreal's father is actually Mors
+  - Fucker, what?
+- Licianna's family is probably okay
+- Zerrias pulled out a locket and Maxam's legs turned to a tail really quickly
+  - What in the actual fuck?!
+  - It's made of Luna Steel
+    - Forces shifters to their original form
+    - Also the raw form can be used against vichor
+- Zerrias's parents are getting more cult-y
+  - That's just great
+- Din wants to sell stuff before heading to Keygarde
+  - Will probably buy spell stuff in Keygarde as well
+- Got to talk with Azreal
+  - Came from a temple in Monstera
+  - Father is literally Mors
+    - Holy fuck
+  - Has heard of Syn
+    - Knows about the line "Under the True Moon will he return through a gift
+      from the God of Beasts"
+    - the True Moon is the Last Full Moon of Winter. The Blessing of the God of
+      Beasts refers to Therio, God of Beasts. There are legends that Therio
+      comes to The Material Plane and offers a gift to the Moon during the True
+      Moon as a means to spend time with his best friend. The area is a clifftop
+      not too far south from Knightmount that houses a solitary temple to Therio
+  - Told Azreal if he had any questions to just ask and I'd try to help
+  - His staff can turn into an eyeball
+    - Oh this guy is weird
+  - I looked under his mask when waking him up
+    - Pretty cute to be honest
+    - I do feel kinda bad though
+- Something is weird with Din
+  - He's eating
+  - He's smelling things
+  - Didn't want to sell things this morning
+  - It's not like him
+- Made plans to head to Keygarde to take care of Lady Duprois's problem
+  - Head to Monstera afterwards

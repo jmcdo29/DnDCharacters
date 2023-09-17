@@ -1,7 +1,7 @@
-- Din was replaced by a fey doppleganger
+- Din was replaced by a fey doppelganger
   - Got rid of it, but Din died in the process
-- Wolf of Thirio visted us in the night
-- Liciana and I saw a shooting star
+- Wolf of Thirio visited us in the night
+- Licianna and I saw a shooting star
 - A bird landed on Zerrias asking for food
 - Ran into a group of runaway slaves
   - One protective teen, three small kids
@@ -11,9 +11,9 @@
   - Small boy with wolf ears - ZR0 (Zero)
   - Came from the West
   - Headed to Keygarde to drop them off first
-    - Zerrias wants to head to the island with his parents afterards
+    - Zerrias wants to head to the island with his parents afterwards
       - seems this is where the kids came from too
-      - Not sure if we should head there yet, there's more wordly issue
+      - Not sure if we should head there yet, there's more worldly issue
       - I can't fault him though...
     - Zerrias's parents are the ones in charge of the island they came from
   - Zerrias took some time in the woods to calm down

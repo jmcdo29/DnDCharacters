@@ -1,0 +1,37 @@
+- Zerrias talks with Kai
+  -tells her he's an Orchid
+- Zerrias told me to try to stop being so nosy
+  - Also understood why I was
+- Why the fuck is it so cold this morning?
+  - What the fuck?
+  - Why is it so cold?
+  - It's getting colder as we head to Keygarde
+- Made it to the Silvitaris River
+  - Can't melt the ice on the bridge, it re-freezes too fast
+  - Somehow we got the horses across the bridge
+  - Kai saw a "person" in the river to the East
+  - Azreal and I could see it too
+    - I wanna know who this person is
+      - But he's probably too far away
+- Zerrias sweeps at my legs
+  - Licianna picks me up and carries me back to the gods damned cart
+  - Zerrias is an asshole
+- Camping in Vistem
+  - Still a ways to Shadewick
+  - A bear came to visit us in the night
+    - It didn't want the rations I threw it
+      - Maybe it didn't see?
+- Zerrias's parents names
+  - Karris
+  - Calliope
+- Zerrias and I talked about family
+- Azreal and Zerrias met Noah? last night
+  - Child Noah with damaged orb
+    - Freaked out at the mention of Ophiucus
+- Maxam had a dream about a voice feeling lost
+  - Unsure of what's going on and hurting
+- Best bet to find Noah would be the heart of the storm
+- Noah is probably at Lifewell Loch
+- It would be a better idea to get the kids to Keygarde than Shadewick
+  - Takes longer, but further from the Loch and the storm
+- Mentioned that I own a residence in Keygarde

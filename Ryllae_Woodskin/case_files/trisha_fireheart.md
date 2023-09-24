@@ -1,7 +1,7 @@
 # Trisha Fireheart
 
-* Start Date: 18th of Newinn 1369
-* End Date: 21st of Newinm 1369
+- Start Date: 18th of Newinn 1369
+- End Date: 21st of Newinm 1369
 
 ## Objective
 
@@ -13,9 +13,9 @@ Pretty standard case here, asked about the last known location of the locket, wh
 
 ### Invoice
 
-| Line Item | Quantity | Price | Total |
-| --- | --- | --- | --- |
-| Initial Rate | 1 | 2 silver | 2 silver |
-| Daily Rate | 3 | 1 silver | 3 silver |
+| Line Item    | Quantity | Price  | Total  |
+| ------------ | -------- | ------ | ------ |
+| Initial Rate | 1        | 3 gold | 3 gold |
+| Daily Rate   | 3        | 1 gold | 3 gold |
 
-Investigation Total: 5 silver
+Investigation Total: 6 gold

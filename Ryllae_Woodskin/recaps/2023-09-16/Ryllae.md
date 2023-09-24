@@ -1,5 +1,5 @@
 - Zerrias talks with Kai
-  -tells her he's an Orchid
+  - tells her he's an Orchid
 - Zerrias told me to try to stop being so nosy
   - Also understood why I was
 - Why the fuck is it so cold this morning?

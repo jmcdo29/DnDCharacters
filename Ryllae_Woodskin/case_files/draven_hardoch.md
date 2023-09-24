@@ -1,7 +1,7 @@
 # Draven Hardoch
 
-* Start Date: 5th of Soli, 1368
-* End Date: 13th of Soli, 1368
+- Start Date: 5th of Soli, 1368
+- End Date: 13th of Soli, 1368
 
 ## Objective
 
@@ -13,12 +13,12 @@ Notes are kept in a separate file as the details are a very sensitive topic.
 
 ### Invoice
 
-| Line Item | Quantity | Price | Total |
-| --- | --- | --- | --- | 
-| Initial Fee | 1 | 2 silver | 2 silver |
-| Daily Rate | 8 | 1 silver | 8 silver |
+| Line Item   | Quantity | Price  | Total  |
+| ----------- | -------- | ------ | ------ |
+| Initial Fee | 1        | 3 gold | 3 gold |
+| Daily Rate  | 8        | 1 gold | 8 gold |
 
-Investigation Total: 10 silver
+Investigation Total: 11 gold
 
 ### Personal Notes
 

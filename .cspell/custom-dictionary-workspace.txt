@@ -71,6 +71,7 @@ Pegatha
 Peggi
 Pense
 Pomdra
+quippier
 ratling
 ratlings
 Ratlings
@@ -81,6 +82,7 @@ Ryllae
 Sabu
 Sariel
 Shadewick
+shadowspawn
 shinies
 Siankiir
 Silvitaris

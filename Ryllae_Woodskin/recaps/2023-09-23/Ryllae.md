@@ -1,0 +1,13 @@
+- Licianna is taking care of the horses to start off today
+- Maxam somehow built an igloo on the cart
+  - I'll be damned, it actually worked
+- Lots of floating lights attacked us in the storm
+  - Holy FUCK they hit hard!
+  - Damn! Kai and Azreal are good fighters!
+    - I might need to offer Kai a position at the Wood's Eye
+    - Okay, I really need to offer her a position
+      - She's a badass fighter
+    - Thank Azreal for the healing in the middle of that
+- Zerrias actually likes that I ask questions
+  - told by "Uncle Z"
+- Offered Kai a possible position at TheWood's Eye

@@ -1,7 +1,7 @@
 # Unknown
 
-* Start Date: START_DATE
-* End Date: END_DATE
+- Start Date: START_DATE
+- End Date: END_DATE
 
 ## Objective
 
@@ -9,9 +9,9 @@
 
 ### Invoice
 
-| Line Item | Quantity | Price | Total |
-| --- | --- | --- | --- |
-| Initial Rate | 1 | 2 silver | 2 silver |
-| Daily Rate | DAYS | 1 silver | DAYS silver |
+| Line Item    | Quantity | Price  | Total     |
+| ------------ | -------- | ------ | --------- |
+| Initial Rate | 1        | 3 gold | 3 gold    |
+| Daily Rate   | DAYS     | 1 gold | DAYS gold |
 
-Investigation Total: TOTAL silver
+Investigation Total: TOTAL gold

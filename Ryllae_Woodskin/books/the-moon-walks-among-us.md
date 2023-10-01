@@ -7,7 +7,7 @@ himself. Armed with a spear-like weapon and the magic of the moon itself.
 
 There have been some documents of Syn throughout the years. Stories from word of
 mouth mostly. Stories of how the Moon came down to fight off some vicious
-creature. His powers could force demons and devils and other shapeshifters to
+creature. His powers could force demons and devils and other shape-shifters to
 reveal their true form with moonbeams so concentrated that it burned anyone
 within the area. And then, the other stories of how Syn channeled this radiant
 energy inwards, calling upon the abilities of the beasts in his domain to aid

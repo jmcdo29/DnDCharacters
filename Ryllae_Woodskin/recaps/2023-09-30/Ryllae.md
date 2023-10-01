@@ -1,0 +1,44 @@
+- Zerrias's gem flashed as he seemed to lean in to someone
+  - I wonder if this has happened before
+- told the kids about the vichor crystals
+- Zerrias seemed a bit concerned
+- Zerrias and Licianna took first watch
+- Talked with Kai about my proposition
+  - Turns out she can't read
+  - Kai mentioned a wolf spoke to her after they had been running away
+    - Turn towards the northeast to head towards Monstera
+- Informed Kai about folk lore of Unteris
+  - The champions
+  - and that Noah's orb is close by?
+- Kai is gonna take me up on the offer to work at the Wood's Eye
+  - Need to get Quilgon to teach Kai and the kids to read and write
+- Wolf of Thirio showed up again
+  - Wow, second interaction in a week
+  - had a pouch of 15 gold and 50 silver
+    - Had a note that read: "little elf, leave Syn to me, you'll meet him soon"
+    - I'll hand that to Kai in the morning
+- Licianna prefers being bitten to Zerrias using shadows or me talking
+- Zerrias found out the vichor gems are "sentient"
+  - He hallucinated Simon yesterday when the gem glowed
+  - Tried to talk to Simon again and found out the gem is using Simon's vision
+  - Vichor comes from Arvita
+    - Arvita split into three
+    - part of sadness
+      - we've met
+    - part in Carcer
+      - yay
+    - part unknown
+  - Vichor physically spoke to Zerrias
+    - Has not happened to me
+  - Gem provides "comfort" when using its powers
+  - gems existence is to punish "us"
+    - Zerrias vaguely gestures to everything
+  - Arvita wanted to inflict the pain she felt from Ophiucus's removal to the world
+    - to everything the devas/angels protected
+- Zerrias had a very hard cry away from breakfast
+- Gave a quick rundown of Ophiucus's probable feelings
+  - Kids are hopeful that at least one of the angels aren't bad
+- Azreal's brother is Suavi
+- Licianna's father is an angel
+  - I knew we were traveling with demigods but seriously??
+- Got Zerrias food for the road and headed off to Keygarde

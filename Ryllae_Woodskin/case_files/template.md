@@ -11,7 +11,7 @@
 
 | Line Item    | Quantity | Price  | Total     |
 | ------------ | -------- | ------ | --------- |
-| Initial Rate | 1        | 3 gold | 2 gold    |
+| Initial Rate | 1        | 3 gold | 3 gold    |
 | Daily Rate   | DAYS     | 1 gold | DAYS gold |
 
 Investigation Total: TOTAL gold

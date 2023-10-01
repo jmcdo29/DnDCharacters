@@ -1,5 +1,6 @@
 # Custom Dictionary Words
 Abiansea
+Acana
 Adalaine
 Aganar
 Alastor
@@ -10,6 +11,7 @@ Avelina
 Azreal
 Bonespire
 boney
+Brickenrest
 Carcer
 cerberus
 Corsea
@@ -19,20 +21,28 @@ Dorran
 dragonling
 dragonlings
 Drakenheim
+Draven
 drow
 druidic
 ebonwood
 Ebonwood
+elven
 Emberwood
 Embry
 Erevan
 Evie
 Fahren
+Featherhat
+Ferax
+Foxvale
 Frosdain
 Gemflower
+Genasi
 Golmars
 Grimlock
+halfling
 Hamble
+Hardoch
 Heartstone
 Ignis
 Irena
@@ -47,6 +57,7 @@ Kisa
 Kraggle
 Kro
 Kyliopoe
+Leahollow
 Lectrum
 Lewy
 Licianna
@@ -70,7 +81,10 @@ pegasus
 Pegatha
 Peggi
 Pense
+Perfero
 Pomdra
+Prismaglen
+Quilgon
 quippier
 ratling
 ratlings
@@ -87,6 +101,7 @@ shinies
 Siankiir
 Silvitaris
 Soti
+Suavi
 Svenn
 syren
 Syren
@@ -106,9 +121,13 @@ Vichor
 Vir
 Viridiem
 Vistem
+Vitarta
 Vitoak
+Volnovus
 Vyo
 Wildemoor
+Woodskin
+Woodskins
 Zerrias
 Zhell
 Zilisk

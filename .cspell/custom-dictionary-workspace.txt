@@ -34,6 +34,7 @@ Evie
 Fahren
 Featherhat
 Ferax
+flamecherry
 Foxvale
 Frosdain
 Gemflower
@@ -99,6 +100,7 @@ Shadewick
 shadowspawn
 shinies
 Siankiir
+Sidie
 Silvitaris
 Soti
 Suavi
@@ -119,6 +121,7 @@ Varis
 vichor
 Vichor
 Vir
+Viridi
 Viridiem
 Vistem
 Vitarta

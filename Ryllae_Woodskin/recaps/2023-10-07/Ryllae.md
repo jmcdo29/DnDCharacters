@@ -1,0 +1,53 @@
+- Zerrias ate his food quicker than expected
+  - ate all the food we saved for him, doesn't feel different
+  - he's also not breathing
+  - apparently feels fine?
+  - he also can open his jaw wider
+    - I guess thanks to Ophiucus
+    - More snake-like in general too
+    - not his genitals though
+- Zerrias kept something to himself
+  - Damn, I wonder what it was
+- Zerrias laughs at seemingly nothing
+  - he keeps talking to empty spaces
+- Oh good, Zerrias no longer wants to kill himself
+- Made it to Keygarde
+  - Showed everyone The Wood's Eye
+  - Headed to get food
+  - Zerrias is gonna sell stuff from the Orchid Manor
+- Told the rumor of Cassius being a vampire to the kids
+  - Fuck he's here!
+    - He usually isn't here during the day
+  - Ordered a lot of food for the kids
+    - Sidie seemed to ask if everything was okay to do with Cassius
+- Cassius actually put everyone up in The Last Drop for the night
+  - I might need to bring up the Vichor situation with him later
+- Took Kai, Lewy, Maxam, and Zero to the temple of Viridi
+  - Lewy's arm was damaged by the Orchids
+    - Practically shattered
+    - Need to go to UMA to remove and replace the appendage
+  - Valarie gave a balm to help reduce the scars for the kids
+- Went to UMA
+  - floor 2, talk to Gadget
+  - I got a tattoo?
+    - My finger is now a quill that never runs out of ink
+  - Gadget is gonna try to replace Lewy's arm
+  - I took Zero to out of the operating room while Gadget worked on Lewy
+  - Gadget successfully removed the arm
+    - will need about a week to craft the replacement
+    - Lewy needs rest now
+- Saw Quilgon in the streets
+  - Took some books from him
+    - The Feud Between Luck and Love
+    - The Champion of Fire
+  - Mentioned I'll be by later to talk about teaching the kids to read
+- Went upstairs back at The Last Drop
+  - Zerrias screamed in his room
+  - He put a shadow knife thing to my throat as I woke him up
+    - Heavy breathing, tears forming, pulling hair
+    - I think he was having a nightmare
+  - I can't seem to pick up Orpheus anymore
+  - Bought a bottle of flamecherry to split with Zerrias
+    - he keeps saying "I'm sorry"
+      - thinks he fucked up because he closed his eyes while sleeping
+- Licianna is cranky when she wakes up

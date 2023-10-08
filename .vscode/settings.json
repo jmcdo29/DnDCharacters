@@ -6,5 +6,6 @@
       "addWords": true,
       "scope": "workspace"
     }
-  }
+  },
+  "editor.tabSize": 2
 }

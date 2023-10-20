@@ -1,0 +1,63 @@
+- Azreal caught up after tending to the horses
+- Licianna apparently punched Zerrias
+- Orpheus now catches things on fire
+  - Explains the scorch marks I've seen
+- Taking the kids to The Dreaming Blossom
+  - Coco will gets the kids outfit the next day
+  - Licianna bought some custom clothes
+  - Zerrias got new clothes
+    - For Orpheus we might need the tinkerer, jeweler, or alchemist
+  - Coco was nice enough to give Zero a black fur-lined coat instead of white
+- One of these days I'll figure out how Coco LeBouf finishes clothes so quickly
+- Headed to the library!
+  - Pence seems a little tense
+    - Holy crap somehow my joking worked out and Pence will teach the kids
+    - I have to stop calling him "sir"
+    - Holy fuck he's taught a troll to read before
+  - Had the idea to use my gem to read Zero's mind to find out his name
+    - Zerrias said it's a bad idea for the sake of not giving the vichor power
+    - Pence had a scroll of detect thoughts
+      - Zerrias used it
+        - saw another naga, looked older than Pence, more scales, golden eyes
+          - also partner who looked like older female Zero
+          - might be Pence's brother Tai
+          - Zero's parents were probably Tai and Robin
+            - Hope they're okay...
+            - We should try to check on them when we get to Monstera
+- Zerrias is gaining fangs
+- I need to go to A Cut Above the Rest
+  - Leaving rest of party at the library
+    - Old habits die hard
+- Zagi, carpenter, adding sleigh treads to the cart
+- Lady Duprois caused a huge fuss in the past about the cold
+- Gave Kai 50gp for "a month's pay in advance"
+- We found a random cabin by the Lifewell Loch
+  - There was fresh, but frozen, food inside
+  - We called out for Noah
+    - Zerrias said he felt cold and lonely after doing so
+  - Food on the counter looks perfectly frozen
+    - Still fresh, no frostbite, just frozen
+- Licianna and Azreal heard a roar outside
+- Noah might be underground?
+  - According to Zerrias, this is what he did last time
+- Zerrias found a gem
+  - Had a vision of baby Noah? during a Dodiem celebration
+  - oh fuck, today is the 14th of Cantus!
+    - How did I forget??
+- we jumped down a hole!
+  - Icy floors
+    - Easy to walk on
+  - Zerrias keeps picking up these blue gems
+    - Each one he spaces out a bit
+    - Zerrias walked into an ice structure and disappeared
+      - I followed
+      - where the fuck are we?
+        - why do I feel so much dread?
+        - reptile things
+          - What the fuck are these things
+        - WAIT WHY IS THERE A CHILD HOLDING A GLAIVE
+          - IS HE ABOUT TO FIGHT THESE THINGS?
+        - Holy fuck... we took them out
+        - Noah was a beast in battle
+        - these reptile things are probably the monster Noah sealed away
+        - there was a memory of Noah telling soldiers he'd seal them away

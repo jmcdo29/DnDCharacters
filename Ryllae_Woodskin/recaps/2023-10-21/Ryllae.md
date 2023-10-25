@@ -1,0 +1,48 @@
+- Find another crystal down another hallway
+  - surrounded by spinning ice block things
+  - Zerrias grabbed it with a spectral hand
+- Each crystal we pick up cracks the barriers even more
+- Fell through the floor!
+  - Entered another battlefield with several more reptile things
+  - They seem to be ignoring us and going after just Noah
+    - My arrow also landed on the ground after hitting one of these things
+- Note to self: do not piss of Noah
+- Noah fell a bit after the battle, but got back up and kept going
+  - Dude seems to be pushing himself like crazy in these memories
+- Made it to the center of the cavern
+  - Clear crystal
+    - adult, male in the middle
+      - white hair
+      - mid 30s?
+      - blue eyes
+      - possibly Noah as an adult?
+      - Not moving, frozen in place
+      - Arms wrapped around legs pressed against chest
+  - Can see The Silver Diamond, Noah's orb, in front of him
+  - Zerrias went to put a hand up against the crystal
+    - Ophiucus actually showed up next to him
+      - Holy fuck we can actually see him??
+- transported again to another memory
+  - cracked ice, black snow, Black Ice Lake
+  - WHAT THE ACTUAL FUCK IS THAT?
+  - IS THAT A DRAGON??
+    - WHY IS THERE A FUCKING DRAGON?
+    - WHAT IS THAT BLACK GOO?
+    - **OH MY FUCKING GOD THAT HURTS**
+    - It can actually fly too! Those wings aren't just for show
+    - Holy fuck, Noah froze the lake
+      - WAIT THAT'S WHAT'S FROZEN??
+      - Fuck.
+- Noah is actually in front of us
+  - Like, as an adult, fully grown
+  - He has more control over his power than when he was younger
+- Noah revoked? the snow from his orb
+  - he knows Gelum is renamed to Frosdain
+- our vichor gems do not seem related to the dragon, thank the gods
+- Turns out Tricen's region was destroyed
+  - it's now where the Vitoak resides
+- the champion's weapons were made for each of them specifically
+  - Noah ignored my question about who made them
+    - rude
+- camp by the loch for the night
+  - head to Keygarde in the morning

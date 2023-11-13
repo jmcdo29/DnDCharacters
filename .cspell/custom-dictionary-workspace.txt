@@ -4,6 +4,7 @@ Acana
 Adalaine
 Aganar
 Alastor
+Alric
 Amanodel
 Aodhan
 Arvita
@@ -52,6 +53,7 @@ Isla
 Itty
 Karis
 Karris
+Kassian
 Kengai
 Keygarde
 Keyguard
@@ -103,6 +105,7 @@ shinies
 Siankiir
 Sidie
 Silvitaris
+Solei
 Soti
 Suavi
 Svenn

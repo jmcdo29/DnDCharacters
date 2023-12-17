@@ -3,6 +3,7 @@ Abiansea
 Acana
 Adalaine
 Aganar
+Alabastor
 Alastor
 Alric
 Amanodel
@@ -16,6 +17,7 @@ Brickenrest
 Carcer
 cerberus
 Corsea
+Deadrian
 Demitree
 Devas
 Dorran

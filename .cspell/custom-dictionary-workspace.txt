@@ -20,9 +20,11 @@ cerberus
 Corsea
 darkvision
 Deadrian
+Defthand
 Demitree
 Devas
 Dorran
+Doveport
 dragonling
 dragonlings
 Drakenheim
@@ -35,9 +37,11 @@ elven
 Emberwood
 Embry
 Erevan
+Esca
 Evie
 Fahren
 Featherhat
+Feng
 Ferax
 flamecherry
 Foxvale
@@ -45,6 +49,7 @@ Frosdain
 Gelum
 Gemflower
 Genasi
+gnolls
 Golmars
 Grimlock
 halfling
@@ -57,6 +62,7 @@ Isla
 Itty
 Karis
 Karris
+Kass
 Kassian
 Kengai
 Keygarde
@@ -75,6 +81,7 @@ Lunasteel
 Maré
 Maren
 Maxam
+Mistran
 Monstera
 Mors
 Musicana
@@ -85,6 +92,7 @@ Nerissa
 Oni
 Oof
 Ophiucus
+Ovak
 pegasus
 Pegatha
 Peggi
@@ -97,7 +105,9 @@ quippier
 ratling
 ratlings
 Ratlings
+Rengar
 Rhage
+Rhath
 Ribbea
 Riku
 Ryllae
@@ -111,6 +121,9 @@ Sidie
 Silvitaris
 Solei
 Soti
+Stonebreaker's
+Stonebreakers
+Stonebreaker
 Suavi
 Svenn
 syren

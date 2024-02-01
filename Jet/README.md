@@ -27,29 +27,30 @@ back
 
 ## Portrait
 
-![Jet, a wolf-like adventurer with medium length blue hair and golden eyes](./jet.png)
+![Jet, a wolf-like adventurer with medium length blue hair and golden eyes](./Jet_commission.png)
 
 # Relationship with Parents
 
-Alma was incredibly supportive of her "shining son". She was the one who usually
-told him the stories of legends as he was growing up. But, she was also not
-usually a fighter, staying in the village and helping around with cooking meals
-or possibly gathering some herbs and fibers for medicinal use or making clothes.
+Alma Jagdtier was incredibly supportive of her "shining son". She was the one
+who usually told him the stories of legends as he was growing up. But, she was
+also not usually a fighter, staying in the village and helping around with
+cooking meals or possibly gathering some herbs and fibers for medicinal use or
+making clothes.
 
-Gabriel was proud of Jet, trained him in combat, and would take him out hunting
-when time permitted, he's the reason Jet knows how to fight and fight well.
-Always taught him that protection, defense, was the best way to win in the long
-run. Patience would reward those who can show it. He was also the most critical
-of Jet when it came to both his combat training, and to the decision to leave
-the tribe. Gabriel had planned for Jet to take over the helm so he could stay
-with Alma more, so there was some disappointment when Jet decided leave, but
-there was a great amount of pride as well for is son blazing his own path.
+Gabriel Jagdtier was proud of Jet, trained him in combat, and would take him out
+hunting when time permitted, he's the reason Jet knows how to fight and fight
+well. Always taught him that protection, defense, was the best way to win in the
+long run. Patience would reward those who can show it. He was also the most
+critical of Jet when it came to both his combat training, and to the decision to
+leave the tribe. Gabriel had planned for Jet to take over the helm so he could
+stay with Alma more, so there was some disappointment when Jet decided leave,
+but there was a great amount of pride as well for is son blazing his own path.
 
-## Alma
+## Alma Jagdtier
 
 ![Alma, Jet's mother, a wolf-like woman with long black wavy hair and golden eyes](./alma_mom.png)
 
-## Gabriel
+## Gabriel Jagdtier
 
 ![Gabriel, Jet's father, a wolf-like man with medium-long greying hair, blue eyes, and a very stern expression](./gabriel_dad.png)
 

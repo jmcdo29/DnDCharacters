@@ -60,6 +60,7 @@ Ignis
 Irena
 Isla
 Itty
+Jagdtier
 Karis
 Karris
 Kass
@@ -121,9 +122,9 @@ Sidie
 Silvitaris
 Solei
 Soti
+Stonebreaker
 Stonebreaker's
 Stonebreakers
-Stonebreaker
 Suavi
 Svenn
 syren

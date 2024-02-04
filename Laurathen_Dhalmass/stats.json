@@ -1,0 +1,85 @@
+{
+  "name": "Laurathen",
+  "race": "Half Drow Elf",
+  "alignment": "Lawful Neutral",
+  "class": {
+    "name": "Sorcerer",
+    "subclass": "Shadow Sorcerer",
+    "level": 2
+  },
+  "attributes": {
+    "strength": {
+      "raw": 8,
+      "racial": 0,
+      "value": 8,
+      "mod": -1
+    },
+    "dexterity": {
+      "raw": 11,
+      "racial": 1,
+      "value": 12,
+      "mod": 1
+    },
+    "constitution": {
+      "raw": 15,
+      "racial": 1,
+      "value": 16,
+      "mod": 3
+    },
+    "intelligence": {
+      "raw": 12,
+      "racial": 0,
+      "value": 12,
+      "mod": 1
+    },
+    "wisdom": {
+      "raw": 14,
+      "racial": 0,
+      "value": 14,
+      "mod": 2
+    },
+    "charisma": {
+      "raw": 15,
+      "racial": 2,
+      "value": 17,
+      "mod": 3
+    }
+  },
+  "savingThrows": {
+    "strength": {
+      "value": 0,
+      "proficient": false
+    },
+    "dexterity": {
+      "value": 1,
+      "proficient": false
+    },
+    "constitution": {
+      "value": 5,
+      "proficient": true
+    },
+    "intelligence": {
+      "value": 0,
+      "proficient": false
+    },
+    "wisdom": {
+      "value": 2,
+      "proficient": false
+    },
+    "charisma": {
+      "value": 5,
+      "proficient": true
+    }
+  },
+  "speed": {
+    "walk": 30
+  },
+  "size": "medium",
+  "age": "33",
+  "darkvision": {
+    "racial": 60,
+    "class": 120
+  },
+  "languages": ["common", "elvish", "undercommon", "dwarvish", "infernal"],
+  "skills": {}
+}

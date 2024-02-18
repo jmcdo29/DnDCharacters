@@ -1,12 +1,21 @@
 {
-  "name": "Laurathen",
+  "name": "Laurathen Dhalmass",
   "race": "Half Drow Elf",
   "alignment": "Lawful Neutral",
+  "background": "Courtier",
   "class": {
     "name": "Sorcerer",
     "subclass": "Shadow Sorcerer",
     "level": 2
   },
+  "proficiency": 2,
+  "initiative": 1.12,
+  "hitDie": [
+    {
+      "number": 2,
+      "die": "d6"
+    }
+  ],
   "attributes": {
     "strength": {
       "raw": 8,
@@ -74,12 +83,112 @@
   "speed": {
     "walk": 30
   },
+  "armorClass": 11,
   "size": "medium",
-  "age": "33",
+  "appearance": {
+    "age": "33",
+    "height": {
+      "feet": 5,
+      "inches": 9
+    },
+    "weight": "150lbs",
+    "skin": "grey",
+    "hairColor": "silver/white",
+    "eyes": "purple"
+  },
   "darkvision": {
     "racial": 60,
     "class": 120
   },
   "languages": ["common", "elvish", "undercommon", "dwarvish", "infernal"],
-  "skills": {}
+  "armorProficiencies": [],
+  "weaponProficiencies": [
+    "dagger",
+    "dart",
+    "light crossbow",
+    "quarterstaff",
+    "sling"
+  ],
+  "skills": {
+    "acrobatics": {
+      "proficient": false,
+      "value": 1
+    },
+    "animal handling": {
+      "proficient": false,
+      "value": 2
+    },
+    "arcana": {
+      "proficient": true,
+      "value": 3
+    },
+    "athletics": {
+      "proficient": false,
+      "value": -1
+    },
+    "deception": {
+      "proficient": true,
+      "value": 5
+    },
+    "history": {
+      "proficient": false,
+      "value": 1
+    },
+    "insight": {
+      "proficient": true,
+      "value": 4
+    },
+    "intimidation": {
+      "proficient": false,
+      "value": 3
+    },
+    "investigation": {
+      "proficient": false,
+      "value": 1
+    },
+    "medicine": {
+      "proficient": false,
+      "value": 2
+    },
+    "nature": {
+      "proficient": false,
+      "value": 1
+    },
+    "perception": {
+      "proficient": false,
+      "value": 2
+    },
+    "performance": {
+      "proficient": false,
+      "value": 3
+    },
+    "persuasion": {
+      "proficient": true,
+      "value": 5
+    },
+    "religion": {
+      "proficient": false,
+      "value": 1
+    },
+    "sleight of hand": {
+      "proficient": false,
+      "value": 1
+    },
+    "stealth": {
+      "proficient": false,
+      "value": 1
+    },
+    "survival": {
+      "proficient": false,
+      "value": 2
+    }
+  },
+  "spells": {
+    "modifier": "charisma",
+    "save": 13,
+    "bonus": 5,
+    "cantrips": ["prestidigitation", "ray of frost", "friends", "mind sliver"],
+    "1st": ["fog cloud", "chaos bolt", "mage armor"],
+    "2nd": []
+  }
 }

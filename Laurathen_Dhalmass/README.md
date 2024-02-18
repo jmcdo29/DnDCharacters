@@ -30,7 +30,12 @@ Disgruntled with the current prejudice she faced, she vowed to make a name for
 herself and for all drow, that they were dependable, hardworking, and mostly
 honorable members of society, just like anyone else. And with that, she set off
 to be an adventurer, using her magical talents to help those in the realm with
-whatever task she could, so long as it was done correctly.
+whatever task she could, so long as it was done correctly. Looking to make a
+reputable name for herself, she took on a job over in Graybell to dispatch some
+lesser undead beings that had been a nuisance for the town. After taking care of
+the job, she headed back towards Talis'Val through the path that leads through
+Tallfield to claim her reward, after a letter was sent back by Keran
+Blackhearth.
 
 ## Portrait
 

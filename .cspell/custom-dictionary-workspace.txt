@@ -11,6 +11,7 @@ Aodhan
 Arvita
 Avelina
 Azreal
+Boega
 Bonespire
 boney
 Brakka
@@ -52,6 +53,7 @@ Genasi
 gnolls
 Golmars
 Grimlock
+gulthian
 halfling
 Hamble
 Hardoch
@@ -61,6 +63,7 @@ Irena
 Isla
 Itty
 Jagdtier
+Jora
 Karis
 Karris
 Kass
@@ -94,6 +97,7 @@ Oni
 Oof
 Ophiucus
 Ovak
+Parisa
 pegasus
 Pegatha
 Peggi

@@ -14,8 +14,11 @@ case $1 in
   jet)
     touch Jet/Diary/$today.md
     ;;
+  laura)
+    touch Laurathen_Dhalmass/notes/$today.md
+    ;;
   --help)
-    printf '%s\n\t* %s\n\t* %s\n\t* %s\n' 'Create notes for the given character' 'ryllae' 'lukten' 'jet'
+    printf '%s\n\t* %s\n\t* %s\n\t* %s\n\t* %s\n' 'Create notes for the given character' 'ryllae' 'lukten' 'jet' 'laura'
     ;;
   *)
     printf '%b%s%b\n' '\x1b[31m' 'Invalid option used for mknotes. Please view ./scripts/mknotes --help' '\x1b[37m'

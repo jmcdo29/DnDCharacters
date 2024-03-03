@@ -13,6 +13,7 @@ case $1 in
     ;;
   jet)
     touch Jet/Diary/$today.md
+    echo "Dear diary,\n\n" >> Jet/Diary/$today.md
     ;;
   laura)
     touch Laurathen_Dhalmass/notes/$today.md

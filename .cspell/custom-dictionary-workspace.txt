@@ -110,6 +110,8 @@ quippier
 ratling
 ratlings
 Ratlings
+Redhawk
+Redhawks
 Rengar
 Rhage
 Rhath

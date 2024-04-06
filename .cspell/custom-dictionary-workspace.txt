@@ -82,6 +82,7 @@ Licianna
 Lifewell
 Lucacul
 Lunasteel
+Magnus
 Maré
 Maren
 Maxam
@@ -144,6 +145,7 @@ Toril
 Tricen
 Ulakai
 unquenched
+unseelie
 Unteris
 Varis
 vichor
